@@ -1,0 +1,21 @@
+#V2
+info for db;
+select * from db1;
+create person set name='carlton joseph';
+select * from person
+exit
+.exit
+quit
+.quite
+.quit
+select * from person;
+create person set name='cheryl';
+create person set name='jeffrey';
+select * from person;
+update person:i3i0wkhikka843g29tgv set project=[this:one, and:the, next:one]
+select * from person
+select projects from person
+select project from person
+select project.name from person
+select project from person
+select * from person
